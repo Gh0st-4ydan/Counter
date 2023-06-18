@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://storage.googleapis.com/blog-images-backup/0*I-sI3u34g0ydRqyA");
+    background-size: cover;
+    height: 100vh;
+}
+.d{
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+h1{
+    margin: auto;
+    font-weight: bold;
+}
+h2{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+#ic{
+    display: block;
+    margin: auto;
+    background-color:lightblue;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    width: 200px;
+    border-radius: 5px;
+    scale: 1.5;
+    height: 30px;
+}
+#sa{
+    display: block;
+    background-color:lightblue;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    width: 200px;
+    border-radius: 5px;
+    scale: 1.5;
+    height: 30px;
+    margin: auto;
+    margin-top: 40px;
+}
+p{
+    font-size: 40px;
+    font-weight: bold;
+}
